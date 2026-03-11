@@ -1,0 +1,6 @@
+name: PhantomBlocker
+version: 1.1
+main: me.phantom.PhantomBlockerPlugin
+api-version: "1.13"
+author: onurr_k
+folia-supported: true
