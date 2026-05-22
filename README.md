@@ -16,7 +16,7 @@ This plugin completely prevents **Phantom** mobs from spawning on your Minecraft
 | ✅ Purpur    | Fully Supported |
 | ✅ Spigot    | Fully Supported |
 | ✅ Folia     | Fully Supported |
-| ⚠️ Bukkit    | Partially Supported |
+| ✅ Bukkit    | Fully Supported |
 
 ## 🚀 Installation
 
